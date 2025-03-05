@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Evilstein-debug!  
+# 👋 Hi, I'm Tejas Pathak!  
 
 **💻 Developer | 🚀 Tech Enthusiast | 🤖 AI/ML Explorer**  
 
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about coding, building web applications, an
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilstein-debug&layout=compact&theme=radical)  
 
 ## 📫 Let's Connect  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/tejas-pathak-8b289a283/))  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-pathak-8b289a283/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/YOUR-TWITTER/](https://x.com/evilstein_?t=FYCg79pwOqW8aipm3PM6MA&s=08))  
 
 

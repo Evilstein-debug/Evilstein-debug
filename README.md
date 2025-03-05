@@ -1,22 +1,25 @@
-👋 Hi, I'm Tejas Pathak!
+# 👋 Hi, I'm Evilstein-debug!  
 
-💻 Developer | 🚀 Tech Enthusiast | 🤖 AI/ML Explorer
+**💻 Developer | 🚀 Tech Enthusiast | 🤖 AI/ML Explorer**  
 
-Welcome to my GitHub! I'm passionate about coding, building web applications, and diving into AI/ML. Always learning, experimenting, and pushing my limits.
+Welcome to my GitHub! I'm passionate about coding, building web applications, and diving into AI/ML. Always learning, experimenting, and pushing my limits.  
 
-🚀 About Me
-    🔭 Currently working on exciting web apps and exploring AI/ML.  
-     💡 Love solving problems, participating in hackathons, and collaborating on projects.  
- 
+## 🚀 About Me  
+- 🔭 Currently working on exciting web apps and exploring AI/ML.    
+- 💡 Love solving problems, participating in hackathons, and collaborating on projects.  
 
-⚡ Tech Stack
- 🔹 Languages: C/C++,JavaScript, Python  
- 
- 🔹 Frontend: HTML, CSS, TailwindCSS  
- 
+## ⚡ Tech Stack  
+🔹 **Languages:** C/C++, JavaScript, Python  
+🔹 **Frontend:** HTML, CSS, TailwindCSS    
 
-📫 Let's Connect
-    https://www.linkedin.com/in/tejas-pathak-8b289a283/
+## 📈 GitHub Stats  
+![Evilstein-debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilstein-debug&layout=compact&theme=radical)  
+
+## 📫 Let's Connect  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/tejas-pathak-8b289a283/))  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/YOUR-TWITTER/](https://x.com/evilstein_?t=FYCg79pwOqW8aipm3PM6MA&s=08))  
+
 
 
 <!--

@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there ![mona-whisper](https://github.com/user-attachments/assets/239741ae-59c9-4e47-8078-7c696435b519)
+
 
 <!--
 **Evilstein-debug/Evilstein-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

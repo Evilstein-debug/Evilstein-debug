@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Tejas Pathak!  
+# Hi, I'm Tejas Pathak!  
 
-**💻 Developer | 🚀 Tech Enthusiast | 🤖 AI/ML Explorer**  
+**Developer/Tech Enthusiast**  
 
-Welcome to my GitHub! I'm passionate about coding, building web applications, and diving into AI/ML. Always learning, experimenting, and pushing my limits.  
+Welcome to my GitHub! I learn and build. Always experimenting, and pushing my limits.  
 
 ## 🚀 About Me  
-- 🔭 Currently working on exciting web apps and exploring AI/ML.    
+- 🔭 Currently learning full stack web development and exploring AI/ML.    
 - 💡 Love solving problems, participating in hackathons, and collaborating on projects.  
 
 ## ⚡ Tech Stack  
 🔹 **Languages:** C/C++, JavaScript, Python  
-🔹 **Frontend:** HTML, CSS, TailwindCSS    
+🔹 **Frontend:** HTML, CSS, TailwindCSS, ReactJS    
 
 ## 📈 GitHub Stats  
 ![Evilstein-debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=radical)  

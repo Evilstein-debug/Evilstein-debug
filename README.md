@@ -13,8 +13,9 @@ Welcome to my GitHub! I learn and build. Always experimenting, and pushing my li
 🔹 **Frontend:** HTML, CSS, TailwindCSS, ReactJS    
 
 ## 📈 GitHub Stats  
-![Evilstein-debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilstein-debug&layout=compact&theme=radical)  
+![Evilstein-debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilstein-debug&layout=compact&theme=tokyonight)  
+[![Evilstein-debug's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evilstein-debug&theme=rogue)](https://github.com/Evilstein-debug/github-readme-activity-graph)
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-pathak-8b289a283/) 

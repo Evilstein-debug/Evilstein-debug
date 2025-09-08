@@ -8,9 +8,8 @@ Welcome to my GitHub! I learn and build. Always experimenting, and pushing my li
 - 🔭 Currently learning full stack web development and exploring AI/ML.    
 - 💡 Love solving problems, participating in hackathons, and collaborating on projects.  
 
-## ⚡ Tech Stack  
-🔹 **Languages:** C/C++, JavaScript, Python  
-🔹 **Frontend:** HTML, CSS, TailwindCSS, ReactJS    
+## 🛠️ Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,express,nodejs,vite,supabase,mongodb,git,github,npm,pnpm,postman,java,py,vercel,vscode&perline=9)](https://skillicons.dev)
 
 ## 📈 GitHub Stats  
 ![Evilstein-debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)

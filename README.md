@@ -19,4 +19,4 @@ Welcome to my GitHub! I learn and build. Always experimenting, and pushing my li
 
 ## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-pathak-8b289a283/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/evilstein_?t=FYCg79pwOqW8aipm3PM6MA&s=08) 
+[![X](https://img.shields.io/badge/X-%231DA1F2?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/evilstein_?t=FYCg79pwOqW8aipm3PM6MA&s=08) 

@@ -3,6 +3,8 @@
 **Developer/Tech Enthusiast**  
 
 Welcome to my GitHub! I learn and build. Always experimenting, and pushing my limits.  
+Open for internships & full time roles.
+Reach me: tejaspathak2005@gmail.com
 
 ## About Me  
 - Currently learning full stack web development and exploring AI/ML.    

@@ -13,11 +13,15 @@ Reach me: tejaspathak2005@gmail.com
 ## Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,express,nodejs,vite,supabase,mongodb,git,github,npm,pnpm,postman,java,py,vercel,vscode&perline=9)](https://skillicons.dev)
 
-## GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Evilstein-debug&theme=tokyonight)
-![Evilstein-debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)
-[![Evilstein-debug's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evilstein-debug&theme=rogue)](https://github.com/Evilstein-debug/github-readme-activity-graph)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilstein-debug&layout=compact&theme=tokyonight)
+<details>
+  
+  ## GitHub Stats  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Evilstein-debug&theme=tokyonight)
+  ![](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=Evilstein-debug&theme=rogue)](https://github.com/Evilstein-debug/github-readme-activity-graph)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilstein-debug&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+</details>
 
 ## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-pathak-8b289a283/) 

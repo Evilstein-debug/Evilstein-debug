@@ -16,7 +16,6 @@ Reach me: tejaspathak2005@gmail.com
 <details>
   
   ## GitHub Stats  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Evilstein-debug&theme=tokyonight)
   ![](https://github-readme-stats.vercel.app/api?username=Evilstein-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)
   [![](https://github-readme-activity-graph.vercel.app/graph?username=Evilstein-debug&theme=rogue)](https://github.com/Evilstein-debug/github-readme-activity-graph)
   ![](https://nirzak-streak-stats.vercel.app/?user=Evilstein-debug&theme=tokyonight&hide_border=false)<br/>

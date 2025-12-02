@@ -11,7 +11,7 @@ Reach me: tejaspathak2005@gmail.com
 - Love solving problems, participating in hackathons, and collaborating on projects.  
 
 ## Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,express,nodejs,vite,supabase,mongodb,git,github,npm,pnpm,postman,java,py,vercel,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,tailwind,express,nodejs,vite,supabase,mongodb,git,github,docker,npm,pnpm,postman,java,py,vercel,vscode&perline=9)](https://skillicons.dev)
 
 <details>
   
